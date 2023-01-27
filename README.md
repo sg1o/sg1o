@@ -11,16 +11,6 @@ Here you will find some of my projects and research related to cybersecurity and
 
 - **MQTT Sensor Emulator**: I developed a small application that emulates sensors in an MQTT environment. This can be useful for testing and debugging IoT systems.
 
-## Skills 🧑‍💻
-
-- Offensive Security
-- Penetration Testing
-- Cyber Intelligence
-- Code Optimization
-- Angr for symbolic execution
-- Python
-- Reversing 
-
 ## Contact me 📱
 
 If you have any questions or just want to say hi, don't hesitate to reach out to me. You can find my contact information on my [LinkedIn profile](https://www.linkedin.com/in/sergio-benlloch-l%C3%B3pez-a606621b5/)
