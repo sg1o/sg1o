@@ -2,7 +2,7 @@
 
 I am a computer engineer with a passion for cybersecurity. My main focus is on offensive security and I have experience working as a researcher in this field. I am currently finishing my Master's Degree in Cybersecurity and Cyberintelligence at the UPV.
 
-Here you will find some of my projects and research related to cybersecurity and penetration testing. I hope you find them interesting and informative. Feel free to reach out to me if you have any questions or want to collaborate on a project.
+Here you will find some of my projects and research. I hope you find them interesting and informative. Feel free to reach out to me if you have any questions or want to collaborate on a project.
 
 ## Projects 🛠
 
