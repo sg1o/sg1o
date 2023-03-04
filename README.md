@@ -11,6 +11,15 @@ Here you will find some of my projects and research related to cybersecurity and
 
 - **MQTT Sensor Emulator**: I developed a small application that emulates sensors in an MQTT environment. This can be useful for testing and debugging IoT systems.
 
+<div align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sg1o&show_icons=true" />
+  </a>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg1o" />
+  </a>
+</div>
+
 ## Contact me 📱
 
 If you have any questions or just want to say hi, don't hesitate to reach out to me. You can find my contact information on my [LinkedIn profile](https://www.linkedin.com/in/sergio-benlloch-l%C3%B3pez-a606621b5/)
