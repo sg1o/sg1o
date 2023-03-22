@@ -13,9 +13,6 @@ Here you will find some of my projects and research. I hope you find them intere
 
 <div align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sg1o&show_icons=true" />
-  </a>
-  <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg1o" />
   </a>
 </div>
