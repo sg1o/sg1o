@@ -15,7 +15,7 @@ Here you will find some of my projects and research. I hope you find them intere
 
 <div align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg1o&langs_count=5&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg1o&layout=compact&theme=dracula"/>
   </a>
 </div>
 
