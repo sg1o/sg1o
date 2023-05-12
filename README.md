@@ -11,6 +11,8 @@ Here you will find some of my projects and research. I hope you find them intere
 
 - **MQTT Sensor Emulator**: I developed a small application that emulates sensors in an MQTT environment. This can be useful for testing and debugging IoT systems.
 
+- **Rustling-Journey**: Projects for fun using Rust
+
 <div align="center">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg1o" />
