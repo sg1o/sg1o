@@ -13,10 +13,10 @@ Here you will find some of my projects and research. I hope you find them intere
 
 - **Rustling-Journey**: Projects for fun using Rust
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![Python3](https://img.shields.io/badge/-Python3-000000?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=000000)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=00599C)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 
 ## Contact me 📱
 
