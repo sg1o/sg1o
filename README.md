@@ -16,8 +16,8 @@ I'm a dedicated **Computer Engineer**, specializing in the riveting field of **c
 ---
 
 <div align="center">
-    
-![sg1o's GitHub stats](https://github-readme-stats.vercel.app/api?username=sg1o&show_icons=true&theme=radical)
+
+![sg1o's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sg1o&layout=compact&theme=radical)
 
 </div>
 
