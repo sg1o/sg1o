@@ -31,8 +31,6 @@ Here are some of my projects that I'm particularly proud of:
 
 - 🕵️‍♂️ **[BinSniff](https://github.com/sg1o/binsniff)**: Serving as a modern magnifying glass for binary files, BinSniff skillfully extracts informative features. It enables users to analyze binary files and identify crucial characteristics, providing a peek into the intricate world of file formats, headers, imported functions, and much more.
 
-- 💡 **MQTT Sensor Emulator**: An application that simulates the complex yet fascinating world of sensors in an MQTT environment. Developed with a view to assist in testing and debugging IoT systems.
-
 - 🦀 **Rustling-Journey**: A repository of projects for fun, all created using the versatile Rust programming language.
 
 Feel free to dig deeper into my [repositories](https://github.com/sg1o?tab=repositories) for more projects.
