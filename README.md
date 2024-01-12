@@ -38,7 +38,8 @@ Feel free to dig deeper into my [repositories](https://github.com/sg1o?tab=repos
 ---
 
 <div align="center">
-    
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=000000)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
