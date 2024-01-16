@@ -31,9 +31,9 @@ Here are some of my projects that I'm particularly proud of:
 
 - 🕵️‍♂️ **[BinSniff](https://github.com/sg1o/binsniff)**: Serving as a modern magnifying glass for binary files, BinSniff skillfully extracts informative features. It enables users to analyze binary files and identify crucial characteristics, providing a peek into the intricate world of file formats, headers, imported functions, and much more.
 
-- 🔐 **[SecComm](https://github.com/sg1o/secomm)**: Streamline secure communications with SecComm, a Go-based tool leveraging Diffie-Hellman key exchange, AES encryption, and ZIP compression. Ideal for secure file and directory transmission over networks, SecComm offers simple commands for file transfer, verbose output options, and easy installation.
+- 🔐 **[Go-Diffie](https://github.com/sg1o/go-diffie)**: Streamline secure communications with SecComm, a Go-based tool leveraging Diffie-Hellman key exchange, AES encryption, and ZIP compression. Ideal for secure file and directory transmission over networks, SecComm offers simple commands for file transfer, verbose output options, and easy installation.
 
-- 🦀 **Rustling-Journey**: A repository of projects for fun, all created using the versatile Rust programming language.
+- 🦀 **[Rustling-Journey](https://github.com/sg1o/Rustlings-Journey)**: A repository of projects for fun, all created using the versatile Rust programming language.
 
 Feel free to dig deeper into my [repositories](https://github.com/sg1o?tab=repositories) for more projects.
 
